@@ -42,7 +42,7 @@ class Inquiry extends Component {
         <Col ratio={2} />
         <Col ratio={1} />
         <Col ratio={1} />
-        <Col ratio={2} />
+        <Col ratio={1.5} />
         <Col ratio={1} />
         <Col ratio={1} />
         <Col ratio={1} />
@@ -92,10 +92,10 @@ class Inquiry extends Component {
         <Item>
           <Location row={0} col={3} />
           <div className={"dx-field"}>
-            <div className={"dx-field-label dx-field-label-80"}>
+            <div className={"label-width dx-field-label"}>
               Include Complete :
             </div>
-            <div className={"dx-field-value dx-field-value-20"}>
+            <div className={"value-width dx-field-value"}>
               <CheckBox defaultValue={true} />
             </div>
           </div>
