@@ -1,0 +1,15 @@
+{
+  "name": "devextreme-test-responsize-box-inquiry",
+  "description": "The Box widget allows you to arrange various elements within it. Separate and adaptive, the Box widget acts as a building block for the layout. In this demo, you can see how the widget is used to layout different elements on a page.\n",
+  "dependencies": {
+    "react-dom": "16",
+    "react": "16",
+    "quill": "1.3.6",
+    "prop-types": "latest",
+    "jszip": "3.1.3",
+    "devextreme-react": "19.1",
+    "devextreme": "19.1",
+    "devexpress-diagram": "latest"
+  },
+  "keywords": []
+}
